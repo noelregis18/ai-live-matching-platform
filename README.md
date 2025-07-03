@@ -6,7 +6,7 @@ A modern, responsive real-time dashboard built with React, Tailwind CSS, and Sup
 - Responsive dashboard layout with a fixed side panel
 - Real-time KPI dashboard with summary cards and activity graph
 - Pages for Event Management, Matching Tracker, Meeting Monitoring, Participant Management, Reports, and AI Matching Settings
-- Supabase integration for backend data
+- Supabase integration for backend data along with Next.js integration
 - Interactive notifications and admin events popovers
 - Fully mobile-friendly and accessible UI
 - Designed and Developed by Noel Regis (footer on every page)
@@ -18,6 +18,7 @@ A modern, responsive real-time dashboard built with React, Tailwind CSS, and Sup
 - [Recharts](https://recharts.org/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Headless UI](https://headlessui.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
